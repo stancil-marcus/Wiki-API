@@ -1,2 +1,2 @@
 # Wiki-API
-This is RESTful API for mock wiki website I did with the Complete Web Development Bootcamp 2019 Course.
+This is RESTful API for mock wiki website I did with the Complete Web Development Bootcamp 2019 Course. It's connected to a MongoDB database.
